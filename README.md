@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on mathematical model inference for cell population dynamics applied to lung cells. 
+- 🌱 I’m currently learning neural differential equations.
 
 <!--
 **amostof/amostof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
